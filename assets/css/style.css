@@ -692,22 +692,24 @@ section {
   }
 
   #center{    
-   float: right;  
-/* margin-top: 20px;
-    margin-right: 40px;
+     float: left; 
+     margin: auto;
+     display: block; 
+    margin-top: 20px;
+    /* margin-right: 40px;
     margin-left: 10px; */
-    margin: auto;
-    display: block;
     width: 110%;
     } 
 
-   #center2{  
-     float: left;
-     display: block;
-     margin: auto;
-     margin-top: 60px;
-     width: 75%;
+    #center2{  
+      margin: auto;
+      display: block;
+      /* margin-right: 80%; */
+      margin-top: 60px;
+      margin-bottom: 20px; */
+      width: 75%;
       } 
+
     #small{    
       /* float: left;  */
       width: 60%;
