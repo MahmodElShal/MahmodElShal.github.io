@@ -708,8 +708,8 @@ section {
     } 
 
    #center2{  
-      display: block; 
-      margin-right: 80%;
+      margin: auto;
+      display: block;
       margin-top: 60px;
       margin-bottom: 20px;
       width: 75%;
