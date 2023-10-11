@@ -693,9 +693,11 @@ section {
 
   #center{    
     /* float: left;  */
-    margin-top: 20px;
+/*     margin-top: 20px;
     margin-right: 40px;
-    margin-left: 10px;
+    margin-left: 10px; */
+    margin: auto;
+    display: block;
     width: 110%;
     } 
 
