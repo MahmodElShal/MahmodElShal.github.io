@@ -702,10 +702,10 @@ section {
     } 
 
    #center2{  
-     float: left; 
+     float: left;
+     display: block;
      margin: auto;
-     display: block; 
-     margin-top: 20px;
+     margin-top: 60px;
      width: 75%;
       } 
     #small{    
